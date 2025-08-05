@@ -1,2 +1,2 @@
-# pytorch_fundamentals
-Pytorch fundamentals course (in progress)
+# PyTorch Zero to Mastery Course
+https://www.learnpytorch.io/ (in progress)
